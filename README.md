@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://aura-neuro.tech/wp-content/uploads/2020/11/cropped-MiraiLogo.png" width="400" />
-  <img src="URL_IMAGEN_DERECHA" width="400" /> 
+  <img src="https://www.mirai-innovation-lab.com/wp-content/uploads/2019/12/Emfutech_dark.png" width="400" /> 
 </p>
 
 
