@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://aura-neuro.tech/wp-content/uploads/2020/11/cropped-MiraiLogo.png)" width="400" />
+  <img src="https://aura-neuro.tech/wp-content/uploads/2020/11/cropped-MiraiLogo.png" width="400" />
   <img src="URL_IMAGEN_DERECHA" width="400" /> 
 </p>
 
