@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://aura-neuro.tech/wp-content/uploads/2020/11/cropped-MiraiLogo.png" width="400" />
-  <img src="https://www.mirai-innovation-lab.com/wp-content/uploads/2019/12/Emfutech_dark.png" width="400" /> 
+  <img src="https://www.mirai-innovation-lab.com/wp-content/uploads/2019/02/mirai_logo.png" width="300"/>
+  <img src="https://www.mirai-innovation-lab.com/wp-content/uploads/2019/12/Emfutech_dark.png" width="500" /> 
 </p>
 
 
@@ -8,16 +8,45 @@
 
 ## Introduction
 
-At the forefront of technological innovation and engineering education,  Unitree Robot Dog Emfutech Project is proud to integrate the advanced Unitree Go2 Edu robot into the EMFUtech program, a pioneering initiative by Mirai Innovation Lab. Our project aims to bridge the gap between theory and practical application, providing students and robotics enthusiasts with a tangible platform to explore, learn, and innovate in the field of mobile robotics.
+This project integrates the advanced technology of the Unitree robot with the educational and innovation goals of the EMFUTECH program, facilitated by Mirai Innovation Lab. Rather than a collaboration, this acquisition allows us to offer a comprehensive educational experience, enabling participants to deeply explore emerging technologies through hands-on interaction with state-of-the-art robotics. By incorporating the Unitree robot, we not only enhance practical learning in sophisticated technological domains but also foster the creation of innovative solutions poised to revolutionize our daily technological interactions.
 
-Known for its versatility, advanced mobility, and customization capabilities, the Unitree Go2 Edu robot becomes the protagonist of this educational journey. Through this program, we aspire to demystify advanced robotics and make it accessible to all, offering the tools and knowledge necessary to program, control, and experiment with cutting-edge technology.
+This project integrates the Unitree robot's cutting-edge technology with the educational and innovation goals of the EMFUTECH program, led by Mirai Innovation Lab. Our approach aims to enrich the educational experience by leveraging emerging technologies. Key objectives include:
 
-## Purpose
+- **Enhancing Learning**: Providing practical interaction with robotics to deepen the understanding of technological advancements.
+- **Driving Innovation**: Encouraging the development of innovative solutions that have the potential to transform our daily technological interactions.
+- **Bridging Theory and Practice**: Utilizing the Unitree robot as a practical tool to apply theoretical knowledge in real-world scenarios.
 
-The purpose of this project is twofold:
+# Installation and Configuration
 
-1. **Educational**: To facilitate a deep understanding of robotics through hands-on experiences, allowing participants to acquire crucial skills in programming, mechanics, and electronics. We aim to inspire a new generation of engineers and critical thinkers who are equipped to tackle the technological challenges of the future.
+Follow these steps to set up your Unitree Go2 robot and prepare it for operation:
 
-2. **Innovation**: To create a collaborative ecosystem where students, educators, and innovators can share ideas, projects, and solutions, driving the advancement of mobile robotics. Our goal is not only to educate but also to foster the creation of new technologies and applications that may arise from creative interactions with the Unitree Go2 Edu robot.
+## Prerequisites
 
-We invite everyone, from robotics novices to experts in the field, to join us on this exciting adventure. Through Robot Dog, we hope to ignite a spark of curiosity and passion for robotics that transcends classrooms and laboratories, leading to innovations that may one day transform our world.
+- Ensure you have the latest version of the Unitree Go2 SDK installed on your computer.
+- Confirm all components and parts are present and in good condition.
+
+## Step 1: Preparing Your Go2
+
+1. **Battery Installation**: Securely insert the battery pack into the robot, ensuring the power switch is facing upwards.
+
+2. **Body Placement**: Place Go2 on a flat surface to ensure proper posture for startup.
+
+## Step 2: Powering Up
+
+- Turn on Go2 by pressing the power button briefly, then holding it for two seconds until the robot starts and the head indicator light turns green.
+
+## Step 3: Connecting to the App
+
+1. **App Binding**: Download and install the Unitree Go App, then follow the in-app instructions to bind your Go2 for the first time.
+
+2. **Remote Control (Optional)**: If using a handheld remote, bind it through the app before use.
+
+## Step 4: First Commands
+
+- Use the Unitree Go App or voice commands (for EDU version) to control Go2, executing basic movements or custom actions.
+
+## Troubleshooting
+
+- For any operational issues, refer to the Go2 User Manual or contact Unitree's support for guidance.
+
+For detailed operation, refer to the [Go2 User Manual](https://physical-computing-lab.net/wp-content/uploads/Go2-User-Manual.pdf) or visit the [Unitree official website](https://www.unitree.com/support) for more information.
