@@ -40,6 +40,7 @@ Follow these steps to set up your Unitree Go2 robot and prepare it for operation
 <p align="center">
   <img src="https://github.com/mirai-innovation/UniTreeEmfutechRobot/blob/main/Battery.jpg" width="500"/>
 </p>
+
 ## Step 3: Connecting to the App
 
 1. **App Binding**: Download and install the Unitree Go App, then follow the in-app instructions to bind your Go2 for the first time. : [APP](https://www.unitree.com/app/go2/)
