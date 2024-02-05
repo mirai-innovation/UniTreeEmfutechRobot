@@ -5,7 +5,26 @@
 
 
 # Welcome to Unitree Robot Dog Emfutech Project
-
+## Table of Contents
+1. [Introduction](#introduction)
+   - [Overview of the Integration](#overview-of-the-integration)
+   - [Objectives of the EMFUTECH Program](#objectives-of-the-emfutech-program)
+   - [Role of the Unitree Robot](#role-of-the-unitree-robot)
+2. [Installation and Configuration](#installation-and-configuration)
+   - [Prerequisites](#prerequisites)
+   - [Preparing Your Go2](#preparing-your-go2)
+   - [Powering Up](#powering-up)
+   - [Connecting to the App](#connecting-to-the-app)
+   - [First Commands](#first-commands)
+3. [Troubleshooting](#troubleshooting)
+4. [Quick Start Guide](#quick-start-guide)
+   - [Connect to Your Robot](#connect-to-your-robot)
+   - [Download the Demo Code](#download-the-demo-code)
+   - [Compile and Run](#compile-and-run)
+   - [Observe](#observe)
+5. [Feedback and Contributions](#feedback-and-contributions)
+   - [Feedback](#feedback)
+   - [Contributions](#contributions)
 ## Introduction
 
 This project integrates the advanced technology of the Unitree robot with the educational and innovation goals of the EMFUTECH program, facilitated by Mirai Innovation Lab. Rather than a collaboration, this acquisition allows us to offer a comprehensive educational experience, enabling participants to deeply explore emerging technologies through hands-on interaction with state-of-the-art robotics. By incorporating the Unitree robot, we not only enhance practical learning in sophisticated technological domains but also foster the creation of innovative solutions poised to revolutionize our daily technological interactions.
