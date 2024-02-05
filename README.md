@@ -60,7 +60,7 @@ For detailed operation, refer to the [Go2 User Manual](https://physical-computin
 
 # Quick Start Guide
 
-Get started with your Unitree Go2 robot by running your first demo program. This guide assumes you have completed the installation and configuration steps.
+Get started with your Unitree Go2 robot by running your first demo program. This guide assumes you have completed the installation and configuration steps. 
 
 ## Step 1: Connect to Your Robot
 
@@ -68,7 +68,7 @@ Get started with your Unitree Go2 robot by running your first demo program. This
 
 ## Step 2: Download the Demo Code
 
-- Download the demo code from the [Unitree GitHub repository](https://github.com/unitree-robotics) or the specific link provided in your documentation.
+- Download the demo code from the [Unitree Quick Start](https://support.unitree.com/home/en/developer/Quick_start).
 
 ## Step 3: Compile and Run
 
@@ -86,3 +86,11 @@ Get started with your Unitree Go2 robot by running your first demo program. This
 
 Remember, this is just the beginning! Explore more advanced programming options and capabilities of your Unitree Go2 robot to fully unlock its potential.
 
+# Feedback and Contributions
+
+We welcome feedback and contributions from the community! If you have suggestions for improvements, encounter any issues, or would like to contribute to the development of this project, please feel free to reach out or submit a pull request.
+
+- **Feedback**: For any feedback or suggestions, please open an issue in our GitHub repository with the tag `feedback`.
+- **Contributions**: We encourage contributions. If you're interested in contributing, please review our contribution guidelines in the `CONTRIBUTING.md` file (you'll need to create this file if it doesn't exist) and submit a pull request with your proposed changes.
+
+Your insights and contributions not only help improve this project but also foster a collaborative and innovative environment. Thank you for being a part of our community!
